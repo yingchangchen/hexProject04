@@ -225,3 +225,8 @@ table {
     max-height: 500px;
   }
 }
+
+.banner {
+  max-width: 1024px;
+  height: 364px;
+}
